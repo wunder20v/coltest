@@ -1,0 +1,21 @@
+export enum Offsets {
+    ServerConnectionUpdate,
+    HasConnectFailed,
+    MessageManagerReceiveMessage,
+    HomePageStartGame,
+    MessagingSend,
+    NativeFontFormatString,
+    GetMessageType,
+    Destruct,
+    MessageLength,
+    ByteStream,
+    MessageManagerInstance,
+    CreateMessageByType,
+    LogicLaserMessageFactory,
+    Version,
+    PayloadSize,
+    PayloadPtr,
+    Decode,
+    OperatorNew,
+    StringConstructor
+}
