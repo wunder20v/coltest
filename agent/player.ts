@@ -9,13 +9,13 @@ export class Player {
     thumbnail = 0;
     coins = 0;
     starpoints = 0;
-    trophies = 0;
+    trophies = 99999;
     highestTrophies = 0;
     trophyRoadTier = 1;
-    xp = 0;
+    xp = 100;
     tokens = 0;
-    level = 1;
-    gems = 0;
+    level = 100;
+    gems = 999999;
     supportedCreator = "nbs.brawlmods.com";
     region = "PL";
     tokenDoublers = 0;
